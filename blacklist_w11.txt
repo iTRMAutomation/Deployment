@@ -13,6 +13,7 @@ Microsoft.MicrosoftEdge.Stable
 #Microsoft.MicrosoftOfficeHub
 #Microsoft.MicrosoftSolitaireCollection
 Microsoft.MicrosoftStickyNotes
+#Microsoft.OutlookForWindows
 Microsoft.Paint
 #Microsoft.People
 Microsoft.PowerAutomateDesktop
@@ -44,5 +45,5 @@ Microsoft.WindowsTerminal
 #Microsoft.YourPhone
 #Microsoft.ZuneMusic
 #Microsoft.ZuneVideo
-#MicrosoftTeams
+#MSTeams
 MicrosoftWindows.Client.WebExperience
